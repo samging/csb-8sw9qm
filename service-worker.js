@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://samging.github.io/csb-8sw9qm/precache-manifest.65871d6466ea458e63a014c49fea1f7f.js"
+  "https://samging.github.io/csb-8sw9qm/precache-manifest.a60b24bd5b431b681f14cf42d5150c3a.js"
 );
 
 workbox.clientsClaim();
